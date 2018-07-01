@@ -1,11 +1,11 @@
 ## Setup
 
 ### Install dependences
-npm i
-composer install
+`npm i`
+`composer install`
 
 ### Create schema
-php artisan migrate
+`php artisan migrate`
 
 ### Init serve
-php artisan serve
+`php artisan serve`
