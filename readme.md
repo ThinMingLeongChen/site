@@ -2,6 +2,7 @@
 
 ### Install dependences
 `npm i`
+
 `composer install`
 
 ### Create schema
